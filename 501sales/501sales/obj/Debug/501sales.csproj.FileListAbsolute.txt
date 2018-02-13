@@ -1,0 +1,12 @@
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\bin\Debug\501sales.exe.config
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\bin\Debug\501sales.exe
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\bin\Debug\501sales.pdb
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\obj\Debug\501sales.csprojResolveAssemblyReference.cache
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\obj\Debug\_501sales.ControlCenter.resources
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\obj\Debug\_501sales.EnterRebate.resources
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\obj\Debug\_501sales.ReturnItem.resources
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\obj\Debug\_501sales.Properties.Resources.resources
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\obj\Debug\501sales.csproj.GenerateResource.Cache
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\obj\Debug\501sales.exe
+c:\users\panda\documents\visual studio 2015\Projects\501sales\501sales\obj\Debug\501sales.pdb
+C:\Users\panda\documents\visual studio 2015\Projects\501sales\501sales\obj\Debug\_501sales.CreateTransaction.resources
